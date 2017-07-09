@@ -10,6 +10,7 @@ In the provided report it is possible to find all the information about the desi
 ## Authors
 
 * **Marco Mancini** - https://www.linkedin.com/in/marco-mancini-6b2969108/
+* **Federico Marinelli** - https://www.linkedin.com/in/feedmari/
 
 ## License
 
